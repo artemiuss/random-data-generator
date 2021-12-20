@@ -1,0 +1,12 @@
+{
+  "LogDir": "log",
+  "OutputFileDelimiter": "\t",
+  "OutputFileExtension": "txt",
+  "OutputDateFormat": "%d-%b-%Y %H:%M:%S",
+  "OutputDir": "out",  
+  "OutNullAsNULL": false,  
+  "OutQuoteStrings": false,  
+  "MappingFile": "mapping.json",
+  "DictionaryFile": "dictionary.json"
+
+}
